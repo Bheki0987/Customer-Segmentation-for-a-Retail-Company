@@ -84,5 +84,5 @@ Explore the interactive Tableau dashboard here:
 - Developed by: Bheki Mogola, Aspiring Data Analyst & Web Developer
 
 ## 📬 Contact
-- 📧 Email: bhekimogola123@gmail.com
+- 📧 Email: bpmogola@gmail.com
 - 🔗 LinkedIn: Bheki Mogola
